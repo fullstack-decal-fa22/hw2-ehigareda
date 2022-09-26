@@ -182,8 +182,5 @@ h2 {
   background-color: lightblue;
   background-clip: content-box, padding-box;
   /* TODO */
-  padding-left:15%;
-  padding-right:15%;
-  padding-top:15%;
-  padding-bottom:15%;
+  padding: 15%;
 }
